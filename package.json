@@ -1,0 +1,22 @@
+{
+  "name": "@iancze/tf.js-fft-helpers",
+  "version": "0.0.1",
+  "description": "Routines interfacing to Tensorflow.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iancze/tf.js-fft-helpers.git"
+  },
+  "keywords": [
+    "fft"
+  ],
+  "author": "Ian Czekala",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iancze/tf.js-fft-helpers/issues"
+  },
+  "homepage": "https://github.com/iancze/tf.js-fft-helpers#readme"
+}
